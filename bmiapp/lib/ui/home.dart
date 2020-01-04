@@ -66,7 +66,7 @@ class BmiState extends State<Bmi> {
 
      });
 
-     _finalResult = "Your BMI: ${result.toStringAsFixed(1)}";
+     _finalResult = "Your BMI VALUE: ${result.toStringAsFixed(1)}";
 
 
   }
